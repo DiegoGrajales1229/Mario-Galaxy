@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MarioG.cs" />
+    <Compile Include="Assets\Starfield Skybox\Demo\Script\LookCamera.cs" />
     <None Include="Assets\Planets\shader\two_side_shader.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Mario-Galaxy/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
